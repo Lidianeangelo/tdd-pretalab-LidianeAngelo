@@ -55,6 +55,8 @@ ___Fonte do guia para usar templates do github: FAQ Desafio Rocketseat___
 
 
 <br>
+## 💻 Dica
+- Adicione a Extensão Jest Runner para rodar.
 
 -----
 
